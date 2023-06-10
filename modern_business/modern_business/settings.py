@@ -175,9 +175,9 @@ INSTALLED_APPS = [
     'djangocms_icon',
     'djangocms_link',
     'djangocms_picture',
-    'djangocms_style',
     'djangocms_googlemap',
     'djangocms_video',
+    'aldryn_style',
     'modern_business'
 ]
 
